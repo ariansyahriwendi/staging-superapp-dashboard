@@ -1,0 +1,3 @@
+npx wdio run ./wdio.conf.js --spec login.feature
+
+npx wdio run ./wdio.conf.js
